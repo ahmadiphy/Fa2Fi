@@ -1,2 +1,2 @@
 # Fa2Fi
-Convert farsi (persian) to english
+Convert Farsi (Persian) string to English string
