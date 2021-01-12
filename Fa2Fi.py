@@ -11,13 +11,13 @@ def check_up(c):
 
 def return_FaCh(c):
     result = c
-    if Fa2Fi_dict.get(c, None) != None:
+    if Fa2Fi_dict_base.get(c, None) != None:
         result = Fa2Fi_dict[c]
     return result
 
 def return_FaCh_UP(c):
     result = c
-    if Fa2Fi_dict_UP.get(c, None) != None:
+    if Fa2Fi_dict_Up.get(c, None) != None:
         result = Fa2Fi_dict_UP[c]
     return result
 
